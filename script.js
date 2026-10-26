@@ -27,7 +27,7 @@ function render() {
 
     const del = document.createElement("button");
     del.className = "delete-btn";
-    del.textContent = "🗑️";
+    del.textContent = "Delete";
     del.onclick = () => remove(index);
 
     li.append(text, completeBtn, del);
