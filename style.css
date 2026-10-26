@@ -78,12 +78,11 @@ li span {
 }
 
 .complete-btn {
-  padding: 6px 14px;
-  background: transparent;
-  color: #f59e0b;
-  border: 2px solid #f59e0b;
-  border-radius: 20px;
-  font-family: inherit;
+  padding: 7px 14px;
+  background: #ec4899;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
   cursor: pointer;
 }
 
