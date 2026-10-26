@@ -100,10 +100,12 @@ li.done .complete-btn {
 }
 
 .delete-btn {
-  background: none;
+  padding: 7px 14px;
+  background: #334155;
+  color: #fff;
   border: none;
+  border-radius: 10px;
   cursor: pointer;
-  font-size: 18px;
 }
 
 .count { 
